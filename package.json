@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "exec": "^0.2.1",
+    "expect": "^27.2.4",
+    "jest": "^27.2.4",
+    "jest-mock": "^27.2.4",
+    "minimatch": "^3.0.4",
+    "rxjs": "^7.4.0"
+  }
+}
