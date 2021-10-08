@@ -1,4 +1,4 @@
-const DEBUG = true
+const DEBUG = false
 
 const log = msg => console.log(msg)
 
