@@ -1,5 +1,9 @@
 #  AutoLogger framework
 ------------------------
+welcome to fork
+
+## pendings
+- 2022: will rebuild using pre-script-syntax-tree-parser on python and also nodejs 
 
 ## purpose
 - automatically log the function calls including all types of payloads, errors with execution time, performance monitoring, enable absolutely bug free application development to save engineers' debugging time cost
